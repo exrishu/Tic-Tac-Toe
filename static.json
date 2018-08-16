@@ -1,0 +1,10 @@
+{
+    "root" : "build/",
+    "clean-urls" : false,
+    "routes" :{
+        "/**":"index.html"
+    }
+
+
+
+}
